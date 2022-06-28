@@ -13,7 +13,7 @@
 
   2.1.- Objetivo general:
   
-        Determinar y analizar las características que componen a un circuito en serie-paralelo (mixto) para poder hallar variantes o incognitas que se presenten en este tipo de circuitos por medio del uso de formulas, planteamiento de ecuaciones basadas en leyes fundamentales, tales como la de ohm y kitchhoff.    
+Determinar y analizar las características que componen a un circuito en serie-paralelo (mixto) para poder hallar variantes o incognitas que se presenten en este tipo de circuitos por medio del uso de formulas, planteamiento de ecuaciones basadas en leyes fundamentales, tales como la de ohm y kitchhoff.    
         
   2.2.- Objetivo específicos:
   
