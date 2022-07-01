@@ -769,6 +769,8 @@ I_C=((R_2-R_5)/(R_2+R_3+R_5 ))*I_T=((39kΩ-9.1kΩ)/(39kΩ+22kΩ+9.1kΩ))*(2
 
 5.- Video
 
+https://youtu.be/8g9G9uxm0mY
+
 6.- Conclusiones
 
 - Se ha podido determinar que el comportamiento de corriente, voltaje y resitencia se podría decir que se combinan al estar en un circuito mixto (serie-paralelo) y se tendría que ir agrupanto por medio de un análisis para poder hallar las variables que se presenten de la manera correcta.
