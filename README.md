@@ -19,7 +19,7 @@ Determinar y analizar las características que componen a un circuito en serie-p
   
         * Analizar el comportamiento de la corriente, resistencia y voltaje en los circuitos en serie-paralelo (mixto).
         * Explicar el funcionamiento de como un voltímetro puede llegar a cargar un circuito.
-        * Determinar las caracterícticas que existen en un circuito al presentarse un puente de Wheatstone.
+        * Determinar las características que existen en un circuito al presentarse un puente de Wheatstone.
         
 3.- Marco teórico
 
