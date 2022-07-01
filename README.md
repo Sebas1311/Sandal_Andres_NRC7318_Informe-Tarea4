@@ -1,4 +1,4 @@
-# Sandal_Andres_NRC7318_Informe-Trea4
+# Sandal_Andres_NRC7318_Informe-Tarea4
                                                  Universidad de las Fuerzas Armadas - Espe
                                                    Fundamentos de circuitos electrónicos 
 - Nombre: Andrés Sandal
@@ -32,6 +32,12 @@ Link del mapa mental: https://gitmind.com/app/doc/85511727393
 5.- Video
 
 6.- Conclusiones
+
+- Se ha podido determinar que el comportamiento de corriente, voltaje y resitencia se podría decir que se combinan al estar en un circuito mixto (serie-paralelo) y se tendría que ir agrupanto por medio de un análisis para poder hallar las variables que se presenten de la manera correcta.
+
+- Se logró observar que un múltimetro también puede llegar a cargar un circuito dependiendo el lugar y la posición en la que se la coloque, y a su vez tiene sus debidas aplicaciones para poder observarlas.
+
+- Se pudo definir que el puente Wheatstonoe es un circuito eléctrico que se requiere para medir resistencias que se desconocen, mediante el equilibrio de los brazos del puente, este esta conformado por 4 resitencias y a su vez forman un circuito cerrado.
 
 7.- Bibliografía
 
